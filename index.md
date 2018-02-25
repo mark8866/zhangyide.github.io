@@ -1,37 +1,25 @@
-## Welcome to My GitHub Pages
+## Self-introduction
 
-You can use the [editor on GitHub](https://github.com/zhangyide/zhangyide.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is YiDe  Zhang , I come from Hubei Huanggang. I am 24 years old. My email is 1251767449@qq.com. Welcome to contact me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Work Experience
 
-### Markdown
+I have been using java for three years and have contacted or developed more than 10 systems. I have rich experience in background and interface development, and have experience in developing Internet products and IoT products. My practical ability and theory are very strong.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I also learn in other languages, like C, C ++, python, go.I have skilled use beego framework.
 
-```markdown
-Syntax highlighted code block
-zhangyide
-# Header 1
-## Header 2
-### Header 3
+Not only is back-end language, I also learn and research front-end technology, skilled use of react, ant-design, ant-design-pro, html, css, css3, jQuery.
 
-- Bulleted
-- List
+I've used a lot of messaging middleware, like kafka, rabbitmq, nsq.
 
-1. Numbered
-2. List
+### Open Source Community Activities
 
-**Bold** and _Italic_ and `Code` text
+I often visit github, like to study good source.
 
-[Link](url) and ![Image](src)
-```
+I have studied the source code of the Spring Framework. I have studied the source code of kafka.I have studied the source of groupcache, which is the go language implementation version written by the author of memcache.I have studied the source code of go language message middleware nsq.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+While studying the beego framework, I submitted pull requests to the beego/admin project, adding search functionality to the background and fixing some bugs. This is my first time pulling request on github, be regarded as the first step.
 
-### Jekyll Themes
+I think open source can make software technology to better develop and I am a firm open source supporters. I hope I can make greater contribution to the open source community in the future.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhangyide/zhangyide.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
